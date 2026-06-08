@@ -51,7 +51,7 @@ export default function Navbar() {
               <span className="absolute inset-x-4 -bottom-0.5 h-px scale-x-0 origin-left bg-gold-400 transition-transform duration-300 group-hover:scale-x-100" />
             </a>
           ))}
-          <a href="#contact" className="btn-gold ml-3 px-5 py-2.5 text-sm">
+          <a href="#contact" className="btn-glass-light ml-3 text-sm">
             Reserve
           </a>
         </nav>

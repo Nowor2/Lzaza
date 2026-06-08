@@ -52,7 +52,7 @@ export default function PopularDishes() {
               60+ dishes including breads, biryanis, vegetarian thalis and desserts.
             </p>
           </div>
-          <a href="tel:+15153811121" className="btn-gold">
+          <a href="tel:+15153811121" className="btn-glass-light">
             Call to order
           </a>
         </div>

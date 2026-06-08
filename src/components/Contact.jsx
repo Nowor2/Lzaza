@@ -111,7 +111,7 @@ export default function Contact() {
                 <p className="text-xs text-charcoal-800/60">
                   By submitting you agree to be contacted about your inquiry.
                 </p>
-                <button type="submit" className="btn-primary">
+                <button type="submit" className="btn-glass-dark">
                   Send message
                 </button>
               </div>
