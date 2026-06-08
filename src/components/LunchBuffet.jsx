@@ -49,8 +49,8 @@ export default function LunchBuffet() {
             </ul>
 
             <div className="mt-10 flex flex-wrap gap-3">
-              <a href="#contact" className="btn-gold">Get directions</a>
-              <a href="tel:+15153811121" className="btn-outline">Call us · (515) 381-1121</a>
+              <a href="#contact" className="btn-glass-light">Get directions</a>
+              <a href="tel:+15153811121" className="btn-glass-outline">Call us · (515) 381-1121</a>
             </div>
           </div>
 

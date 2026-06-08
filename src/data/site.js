@@ -165,9 +165,9 @@ export const gallery = [
   { src: 'https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=900&q=80', alt: 'Assorted Indian curries with naan' },
   { src: 'https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=900&q=80', alt: 'Chicken biryani served on a brass platter' },
   { src: 'https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=900&q=80', alt: 'Tandoori chicken on skewers' },
-  { src: 'https://images.unsplash.com/photo-1633945274405-b6c8b0fa9d40?auto=format&fit=crop&w=900&q=80', alt: 'Restaurant dining room interior' },
+  { src: 'https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=900&q=80', alt: 'Restaurant dining room interior' },
   { src: 'https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?auto=format&fit=crop&w=900&q=80', alt: 'Samosas with chutney' },
   { src: 'https://images.unsplash.com/photo-1599043513900-ed6fe01d3833?auto=format&fit=crop&w=900&q=80', alt: 'Naan being baked in a tandoor oven' },
   { src: 'https://images.unsplash.com/photo-1567337710282-00832b415979?auto=format&fit=crop&w=900&q=80', alt: 'Buffet line of Indian dishes' },
-  { src: 'https://images.unsplash.com/photo-1601050690294-1f3edd7d3a07?auto=format&fit=crop&w=900&q=80', alt: 'Mango lassi in a chilled glass' },
+  { src: 'https://images.unsplash.com/photo-1571805341302-f857308690e3?auto=format&fit=crop&w=900&q=80', alt: 'Mango lassi in a chilled glass' },
 ]
