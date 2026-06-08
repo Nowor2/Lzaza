@@ -46,14 +46,14 @@ export default function Hero() {
           </div>
 
           <div className="mt-9 flex flex-wrap gap-3">
-            <a href="#menu" className="btn-gold">
+            <a href="#menu" className="btn-glass-light">
               View Menu
               <Arrow />
             </a>
-            <a href={business.phoneHref} className="btn-primary">
+            <a href={business.phoneHref} className="btn-glass">
               Order Online
             </a>
-            <a href="#contact" className="btn-outline">
+            <a href="#contact" className="btn-glass-outline">
               Reserve a Table
             </a>
           </div>
